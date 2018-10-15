@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="Bin" t="ExcludeRecursive" />
+      <e p="Controllers" t="Include">
+        <e p="AccountController.cs" t="Include" />
+        <e p="HomeController.cs" t="Include" />
+      </e>
+      <e p="DemensProjektNewLayout.csproj" t="IncludeRecursive" />
+      <e p="Models" t="Include" />
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp2.1" t="Include">
+            <e p="DemensProjektNewLayout.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Program.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="launchSettings.json" t="Include" />
+      </e>
+      <e p="Startup.cs" t="Include" />
+      <e p="Views" t="Include">
+        <e p="Account" t="Include">
+          <e p="Index.cshtml" t="Include" />
+        </e>
+        <e p="Home" t="Include">
+          <e p="Index.cshtml" t="Include" />
+        </e>
+        <e p="shared" t="Include">
+          <e p="_Layout.cshtml" t="Include" />
+        </e>
+        <e p="Story" t="Include" />
+      </e>
+      <e p="wwwroot" t="Include">
+        <e p="color" t="Include">
+          <e p="default.css" t="Include" />
+        </e>
+        <e p="css" t="Include">
+          <e p="animate.css" t="Include" />
+          <e p="bootstrap.css" t="Include" />
+          <e p="bootstrap.min.css" t="Include" />
+          <e p="style.css" t="Include" />
+        </e>
+        <e p="font-awesome" t="Include">
+          <e p="css" t="Include">
+            <e p="font-awesome.css" t="Include" />
+            <e p="font-awesome.min.css" t="Include" />
+          </e>
+          <e p="fonts" t="Include">
+            <e p="fontawesome-webfont.eot" t="Include" />
+            <e p="fontawesome-webfont.svg" t="Include" />
+            <e p="fontawesome-webfont.ttf" t="Include" />
+            <e p="fontawesome-webfont.woff" t="Include" />
+            <e p="FontAwesome.otf" t="Include" />
+          </e>
+        </e>
+        <e p="fonts" t="Include">
+          <e p="glyphicons-halflings-regular.eot" t="Include" />
+          <e p="glyphicons-halflings-regular.svg" t="Include" />
+          <e p="glyphicons-halflings-regular.ttf" t="Include" />
+          <e p="glyphicons-halflings-regular.woff" t="Include" />
+        </e>
+        <e p="img" t="Include">
+          <e p="bg1.jpg" t="Include" />
+          <e p="icons" t="Include">
+            <e p="button-icons.png" t="Include" />
+            <e p="grid-menu-icons.png" t="Include" />
+            <e p="menu-icons.png" t="Include" />
+            <e p="menu-icons2.png" t="Include" />
+            <e p="search.png" t="Include" />
+            <e p="search2.png" t="Include" />
+            <e p="service-icon-1.png" t="Include" />
+            <e p="service-icon-2.png" t="Include" />
+            <e p="service-icon-3.png" t="Include" />
+            <e p="service-icon-4.png" t="Include" />
+            <e p="social-icons2.png" t="Include" />
+            <e p="weather-icons.png" t="Include" />
+            <e p="weather-main.png" t="Include" />
+          </e>
+          <e p="loader.gif" t="Include" />
+          <e p="spinner.gif" t="Include" />
+          <e p="team" t="Include">
+            <e p="1.jpg" t="Include" />
+            <e p="2.jpg" t="Include" />
+            <e p="3.jpg" t="Include" />
+            <e p="4.jpg" t="Include" />
+          </e>
+          <e p="works" t="Include">
+            <e p="1.jpg" t="Include" />
+            <e p="2.jpg" t="Include" />
+            <e p="3.jpg" t="Include" />
+            <e p="4.jpg" t="Include" />
+            <e p="5.jpg" t="Include" />
+            <e p="6.jpg" t="Include" />
+            <e p="7.jpg" t="Include" />
+            <e p="8.jpg" t="Include" />
+          </e>
+        </e>
+        <e p="index.html" t="Include" />
+        <e p="js" t="Include">
+          <e p="bootstrap.js" t="Include" />
+          <e p="bootstrap.min.js" t="Include" />
+          <e p="custom.js" t="Include" />
+          <e p="jquery-1.10.2.js" t="Include" />
+          <e p="jquery.easing.min.js" t="Include" />
+          <e p="jquery.min.js" t="Include" />
+          <e p="jquery.scrollTo.js" t="Include" />
+          <e p="wow.min.js" t="Include" />
+        </e>
+      </e>
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2018.2/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2018.2/resharper-host/local/Transient/ReSharperHost/v182/SolutionCaches/_DemensProjektNewLayout.-1659098766.00" t="ExcludeRecursive" />
+    <e p="$APPLICATION_CONFIG_DIR$/scratches" t="IncludeRecursive" />
+  </component>
+</project>
